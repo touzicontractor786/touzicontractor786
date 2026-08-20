@@ -296,7 +296,7 @@
 ### 🚧 Current Progress
 
 ```text
-AI Agents          █████░░░░░ 50%
-LLM Applications   █████░░░░░ 50%
-Tool Calling       ████░░░░░░ 40%
-Agent Workflows    ███░░░░░░░ 30%
+AI Agents          █████░░░░░ 00%
+LLM Applications   █████░░░░░ 00%
+Tool Calling       ████░░░░░░ 00%
+Agent Workflows    ███░░░░░░░ 00%
