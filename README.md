@@ -1,6 +1,4 @@
-<h1 align="center">
-  👋 Hi, I'm Touzi Contractor
-</h1>
+<h1 align="center">👋 Hi, I'm Touzi Contractor</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Enthusiast;OOP+Developer;AI+Learner;Building+Real-World+Projects" alt="Typing Animation"/>
@@ -24,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 ABOUT ME
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
@@ -42,45 +40,45 @@
 
 🧠 Currently learning **Agentic AI**
 
-🚀 I believe in learning by building real-world projects.
+🚀 Learning by building real-world projects.
 
-📫 **Email:** [touzishaikh@gmail.com](mailto:touzishaikh@gmail.com)
+📫 **Email:** `touzishaikh@gmail.com`
 
 ---
 
 # 📚 MY LEARNING JOURNEY
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=700&color=00FFAA&center=true&vCenter=true&width=650&lines=Learning+%7C+Building+%7C+Improving;One+Topic+At+A+Time;The+Journey+Continues..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=700&color=00FFAA&center=true&vCenter=true&width=650&lines=Learning;Building;Practicing;Improving;Never+Stop+Learning"/>
 </p>
 
-| 🚀 Topic            |     📊 Progress     |   🏆 Status  |
-| :------------------ | :-----------------: | :----------: |
-| 🐍 Python           | ██████████ **100%** | 🟢 Completed |
-| 🧩 OOP              | ██████████ **100%** | 🟢 Completed |
-| 🔢 NumPy            | ██████████ **100%** | 🟢 Completed |
-| 🐼 Pandas           | ██████████ **100%** | 🟢 Completed |
-| 📈 Matplotlib       | ██████████ **100%** | 🟢 Completed |
-| 🎨 Seaborn          | ██████████ **100%** | 🟢 Completed |
-| 📊 Data Science     | ██████████ **100%** | 🟢 Completed |
+| 🚀 Topic | 📊 Completion | 🏆 Status |
+|:---|:---:|:---:|
+| 🐍 Python | ██████████ **100%** | 🟢 Completed |
+| 🧩 OOP | ██████████ **100%** | 🟢 Completed |
+| 🔢 NumPy | ██████████ **100%** | 🟢 Completed |
+| 🐼 Pandas | ██████████ **100%** | 🟢 Completed |
+| 📈 Matplotlib | ██████████ **100%** | 🟢 Completed |
+| 🎨 Seaborn | ██████████ **100%** | 🟢 Completed |
+| 📊 Data Science | ██████████ **100%** | 🟢 Completed |
 | 🤖 Machine Learning | ██████████ **100%** | 🟢 Completed |
-| 🧠 Agentic AI       |  █████░░░░░ **50%** |  🟡 Learning |
-
-> 🟢 Completed    🟡 Currently Learning
+| 🧠 Agentic AI | █████░░░░░ **50%** | 🟡 Learning |
 
 ---
 
 # 🐍 PYTHON
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=3776AB&center=true&vCenter=true&width=600&lines=Python+Programming;Core+Python;Problem+Solving;Building+Applications"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=3776AB&center=true&vCenter=true&width=650&lines=Python+Programming;Core+Python;Problem+Solving;Python+Projects"/>
+
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90"/>
 </p>
 
-### 🎬 Bollywood Mood
+### 🎬 Bollywood Meme
 
 <p align="center">
 
@@ -94,37 +92,43 @@
 
 ### 📚 Topics Covered
 
-* Variables & Data Types
-* Operators
-* Conditional Statements
-* Loops
-* Functions
-* Lambda Functions
-* Modules
-* List
-* Tuple
-* Set
-* Dictionary
-* List Comprehension
-* File Handling
-* Exception Handling
-* `*args` & `**kwargs`
-* Shallow Copy & Deep Copy
-* `sort()` & `sorted()`
+- Variables
+- Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Lambda Functions
+- Modules
+- List
+- Tuple
+- Set
+- Dictionary
+- List Comprehension
+- File Handling
+- Exception Handling
+- `*args`
+- `**kwargs`
+- Shallow Copy
+- Deep Copy
+- `sort()`
+- `sorted()`
 
 ---
 
 # 🧩 OBJECT-ORIENTED PROGRAMMING
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=FF6F00&center=true&vCenter=true&width=650&lines=Classes+%26+Objects;Inheritance;Encapsulation;Polymorphism;OOP+Completed"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=FF6F00&center=true&vCenter=true&width=650&lines=Object+Oriented+Programming;Classes;Objects;Inheritance;Encapsulation;Polymorphism"/>
+
 </p>
 
-### 🎬 Bollywood Mood
+### 🎬 Bollywood Meme
 
 <p align="center">
 
-**"Don ko pakadna mushkil hi nahi... impossible hai!" 😎**
+**"Don ko pakadna mushkil hi nahi... impossible hai!" 😎🔥**
 
 <br>
 
@@ -134,27 +138,30 @@
 
 ### 📚 Topics Covered
 
-* Classes & Objects
-* Constructors
-* `__init__()`
-* Inheritance
-* Encapsulation
-* Polymorphism
-* Method Overriding
+- Classes
+- Objects
+- Constructors
+- `__init__()`
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Method Overriding
 
 ---
 
 # 🔢 NUMPY
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=4DABCF&center=true&vCenter=true&width=600&lines=NumPy+Arrays;Numerical+Computing;Array+Operations;Data+Processing"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=4DABCF&center=true&vCenter=true&width=650&lines=NumPy+Arrays;Numerical+Computing;Array+Operations;Data+Processing"/>
+
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="90"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="90"/>
 </p>
 
-### 🎬 Bollywood Mood
+### 🎬 Bollywood Meme
 
 <p align="center">
 
@@ -168,27 +175,30 @@
 
 ### 📚 Topics Covered
 
-* NumPy Arrays
-* Indexing
-* Slicing
-* Array Operations
-* Mathematical Operations
-* Reshaping
-* Aggregation Functions
+- NumPy Arrays
+- Indexing
+- Slicing
+- Array Operations
+- Mathematical Operations
+- Reshaping
+- Aggregation
+- Statistical Operations
 
 ---
 
 # 🐼 PANDAS
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=150458&center=true&vCenter=true&width=650&lines=Pandas+Series;DataFrames;Data+Cleaning;Data+Analysis"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=150458&center=true&vCenter=true&width=650&lines=Pandas;Series;DataFrames;Data+Cleaning;Data+Analysis"/>
+
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="90"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="90"/>
 </p>
 
-### 🎬 Bollywood Mood
+### 🎬 Bollywood Meme
 
 <p align="center">
 
@@ -202,33 +212,35 @@
 
 ### 📚 Topics Covered
 
-* Series
-* DataFrame
-* `loc`
-* `iloc`
-* Data Cleaning
-* Missing Values
-* Duplicate Values
-* GroupBy
-* Merge
-* Join
-* Concatenation
-* Sorting
-* Data Analysis
+- Series
+- DataFrame
+- `loc`
+- `iloc`
+- Data Cleaning
+- Missing Values
+- Duplicate Values
+- GroupBy
+- Merge
+- Join
+- Concatenation
+- Sorting
+- Data Analysis
 
 ---
 
 # 📈 MATPLOTLIB
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=11557C&center=true&vCenter=true&width=650&lines=Data+Visualization;Graphs;Charts;Visual+Analytics"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=11557C&center=true&vCenter=true&width=650&lines=Data+Visualization;Graphs;Charts;Visual+Analytics"/>
+
 </p>
 
 <p align="center">
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="130"/>
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="130"/>
 </p>
 
-### 🎬 Bollywood Mood
+### 🎬 Bollywood Meme
 
 <p align="center">
 
@@ -240,29 +252,32 @@
 
 </p>
 
-### 📚 Charts Covered
+### 📚 Topics Covered
 
-* 📈 Line Plot
-* 📊 Bar Plot
-* 🔵 Scatter Plot
-* 📦 Box Plot
-* 📊 Histogram
-* 🥧 Pie Chart
-* 🔥 Heatmap
+- Line Plot
+- Bar Plot
+- Scatter Plot
+- Box Plot
+- Histogram
+- Pie Chart
+- Heatmap
+- Data Visualization
 
 ---
 
 # 🎨 SEABORN
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=4C72B0&center=true&vCenter=true&width=650&lines=Beautiful+Visualizations;Statistical+Plots;Data+Exploration;Seaborn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=4C72B0&center=true&vCenter=true&width=650&lines=Seaborn;Beautiful+Visualizations;Statistical+Plots;Data+Exploration"/>
+
 </p>
 
 <p align="center">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="90"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="90"/>
 </p>
 
-### 🎬 Bollywood Mood
+### 🎬 Bollywood Meme
 
 <p align="center">
 
@@ -276,26 +291,28 @@
 
 ### 📚 Topics Covered
 
-* Statistical Visualization
-* Distribution Plots
-* Box Plots
-* Scatter Plots
-* Heatmaps
-* Correlation Visualization
+- Statistical Visualization
+- Distribution Plots
+- Box Plots
+- Scatter Plots
+- Heatmaps
+- Correlation Visualization
 
 ---
 
 # 📊 DATA SCIENCE
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=00A67E&center=true&vCenter=true&width=650&lines=Data+Science;Data+Cleaning;Data+Analysis;Data+Visualization;Finding+Insights"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=00A67E&center=true&vCenter=true&width=650&lines=Data+Science;Data+Cleaning;Data+Analysis;Data+Visualization;Finding+Insights"/>
+
 </p>
 
-### 🎬 Bollywood Mood
+### 🎬 Bollywood Meme
 
 <p align="center">
 
-**"Mogambo khush hua!" 😎**
+**"Mogambo khush hua!" 😎🔥**
 
 <br>
 
@@ -305,31 +322,33 @@
 
 ### 📚 Topics Covered
 
-* Data Collection
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Visualization
-* Missing Value Handling
-* Outlier Detection
-* Feature Engineering
-* Feature Scaling
-* Label Encoding
-* One-Hot Encoding
-* Correlation Analysis
+- Data Collection
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Missing Value Handling
+- Outlier Detection
+- Feature Engineering
+- Feature Scaling
+- Label Encoding
+- One-Hot Encoding
+- Correlation Analysis
 
 ---
 
 # 🤖 MACHINE LEARNING
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=F7931E&center=true&vCenter=true&width=700&lines=Machine+Learning;Supervised+Learning;Unsupervised+Learning;Model+Training;Model+Evaluation"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=F7931E&center=true&vCenter=true&width=700&lines=Machine+Learning;Supervised+Learning;Unsupervised+Learning;Model+Training;Model+Evaluation"/>
+
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="90"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="90"/>
 </p>
 
-### 🎬 Bollywood Mood
+### 🎬 Bollywood Meme
 
 <p align="center">
 
@@ -343,39 +362,41 @@
 
 ## 📈 Supervised Learning
 
-* Linear Regression
-* Logistic Regression
-* K-Nearest Neighbors
-* Support Vector Machine
-* Decision Tree
-* Classification
-* Regression
+- Linear Regression
+- Logistic Regression
+- K-Nearest Neighbors
+- Support Vector Machine
+- Decision Tree
+- Classification
+- Regression
 
 ## 🔵 Unsupervised Learning
 
-* K-Means Clustering
-* Clustering
+- K-Means Clustering
+- Clustering
 
 ## 🧠 ML Concepts
 
-* Train-Test Split
-* Feature Scaling
-* Model Training
-* Model Prediction
-* Model Evaluation
-* Confusion Matrix
-* Pickle
-* Model Deployment
+- Train-Test Split
+- Feature Scaling
+- Model Training
+- Model Prediction
+- Model Evaluation
+- Confusion Matrix
+- Pickle
+- Model Deployment
 
 ---
 
 # 🧠 AGENTIC AI
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=FF00FF&center=true&vCenter=true&width=700&lines=Agentic+AI;Currently+Learning;AI+Agents;LLM+Applications;Tool+Calling"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=FF00FF&center=true&vCenter=true&width=700&lines=Agentic+AI;Currently+Learning;AI+Agents;LLM+Applications;Tool+Calling"/>
+
 </p>
 
-### 🎬 Bollywood Mood
+### 🎬 Bollywood Meme
 
 <p align="center">
 
@@ -389,12 +410,12 @@
 
 ### 🚧 Current Progress
 
-| Topic            |           Progress |
-| ---------------- | -----------------: |
-| AI Agents        | █████░░░░░ **50%** |
+| 🧠 Agentic AI Topic | 📊 Progress |
+|:---|:---:|
+| AI Agents | █████░░░░░ **50%** |
 | LLM Applications | █████░░░░░ **50%** |
-| Tool Calling     | ████░░░░░░ **40%** |
-| Agent Workflows  | ███░░░░░░░ **30%** |
+| Tool Calling | ████░░░░░░ **40%** |
+| Agent Workflows | ███░░░░░░░ **30%** |
 
 > 🚧 **Agentic AI is currently in progress.**
 
@@ -403,10 +424,12 @@
 # 🖥️ GUI & DEPLOYMENT
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=FF4B4B&center=true&vCenter=true&width=700&lines=Tkinter+GUI;Streamlit+Applications;Pickle;ML+Deployment"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=700&color=FF4B4B&center=true&vCenter=true&width=700&lines=Tkinter+GUI;Streamlit+Applications;Pickle;Machine+Learning+Deployment"/>
+
 </p>
 
-### 🎬 Bollywood Mood
+### 🎬 Bollywood Meme
 
 <p align="center">
 
@@ -420,40 +443,50 @@
 
 ### Technologies
 
-* 🪟 Tkinter
-* 🌐 Streamlit
-* 📦 Pickle
-* 🚀 Machine Learning Deployment
+- Tkinter
+- Streamlit
+- Pickle
+- Machine Learning Deployment
 
 ---
 
 # 🚀 FEATURED PROJECTS
 
-## 🛒 D-Mart Billing System
+## 🛒 D-MART BILLING SYSTEM
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=00BFFF&center=true&vCenter=true&width=550&lines=Python+GUI+Application;Billing+System;Tkinter+Project"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=00BFFF&center=true&vCenter=true&width=600&lines=Python+GUI+Application;Billing+System;Tkinter+Project"/>
+
 </p>
+
+### 🎬 Bollywood Meme
+
+> **"Bhai, bill kitne ka bana?" 😂**
 
 ### Features
 
-* 👤 Customer Details
-* 📦 Product Management
-* 🔢 Quantity & Price Calculation
-* 💰 Automatic Total
-* 🧾 Bill Generation
+- Customer Details
+- Product Management
+- Quantity & Price Calculation
+- Automatic Total
+- Bill Generation
 
-**Technology:**
-
-`Python` `Tkinter`
+**Technology:** `Python` `Tkinter`
 
 ---
 
-## ❤️ Heart Disease Prediction
+# ❤️ HEART DISEASE PREDICTION
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=FF0000&center=true&vCenter=true&width=600&lines=Machine+Learning+Project;Prediction+Model;Streamlit+Application"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=FF0000&center=true&vCenter=true&width=600&lines=Machine+Learning+Project;Prediction+Model;Streamlit+Application"/>
+
 </p>
+
+### 🎬 Bollywood Meme
+
+> **"All is well!" ❤️😂**
 
 ### Technologies
 
@@ -461,11 +494,17 @@
 
 ---
 
-## 📊 K-Means Clustering
+# 📊 K-MEANS CLUSTERING
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=00FFAA&center=true&vCenter=true&width=600&lines=Unsupervised+Learning;K-Means+Clustering;Data+Analysis"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=00FFAA&center=true&vCenter=true&width=600&lines=Unsupervised+Learning;K-Means+Clustering;Data+Analysis"/>
+
 </p>
+
+### 🎬 Bollywood Meme
+
+> **"Groups toh banenge!" 😂📊**
 
 ### Technologies
 
@@ -531,14 +570,21 @@ alt="GitHub Trophies"/>
 
 ---
 
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing;See+you+in+the+next+project!+🚀"/>
-
-</p>
+# 🎯 CURRENT GOAL
 
 <p align="center">
 
-⭐ <b>Feel free to explore my repositories and connect with me!</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Master+Machine+Learning;Build+More+Real-World+Projects;Learn+Agentic+AI;Become+a+Better+Python+Developer"/>
 
 </p>
+
+```text
+Python              ██████████ 100%
+OOP                 ██████████ 100%
+NumPy               ██████████ 100%
+Pandas              ██████████ 100%
+Matplotlib          ██████████ 100%
+Seaborn             ██████████ 100%
+Data Science        ██████████ 100%
+Machine Learning    ██████████ 100%
+Agentic AI          █████░░░░░  50%
